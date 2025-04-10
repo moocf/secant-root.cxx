@@ -10,4 +10,6 @@ roots of secant lines to better approximate a root of a function f.
 
 See [main.cpp] for code.
 
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/secant-root.cxx)
+
 [main.cpp]: main.cpp
